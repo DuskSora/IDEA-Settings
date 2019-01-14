@@ -3,8 +3,12 @@
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
-        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2018.2.4" />
+        <entry key="com.zeroturnaround.jrebel.NoExternalAutoconvert" value="false" />
+        <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="false" />
+        <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2018.2.5-SNAPSHOT" />
       </map>
     </option>
+    <option name="javaRebelPath" value="D:\Development\Programs\IntelliJ IDEA\.IntelliJIdea\config\plugins\jr-ide-idea\lib\jrebel6\jrebel.jar" />
   </component>
 </application>
