@@ -6,6 +6,10 @@
           <option name="url" value="https://weiyk@192.168.49.188/git/r/netmrs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://weiyk@192.168.49.188/git/r/moa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Workspaces\pft" />
