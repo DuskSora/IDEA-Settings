@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="vm" type="PLAIN_TEXT" />
+      <mapping pattern="alter_table_procinst" type="SQL" />
       <mapping ext="20210718__alter_optionsource" type="SQL" />
     </extensionMap>
   </component>
